@@ -1,5 +1,6 @@
 1. DevOps adalah kombinasi dari filosofi budaya, penerapan, dan peralatan yang meningkatkan kemampuan organisasi untuk memberikan aplikasi dan layanan dalam kecepatan yang tinggi
 2. berikut untuk jawaban nya :
+   
 Continuous Development ini melibatkan perencanaan dan pengkodean dalam pengembangan perangkat lunak. Di sini, seluruh proses pengembangan dipecah menjadi siklus pengembangan yang lebih kecil / dipecah - pecah. Proses ini memudahkan tim DevOps untuk mempercepat proses pengembangan perangkat lunak secara keseluruhan.
 
 Continuous integration (CI) adalah langkah-langkah yang berkaitan dengan fase pengujian atau testing.

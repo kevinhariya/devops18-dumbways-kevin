@@ -82,6 +82,21 @@ Deploy Python dengan menampilkan nama kita
 2. Setelah pip terinstall, kita akan membuat file baru dengan ekstensi .py dengan nama print-name.py dan kita juga akan menginstall flask untuk menyajikan code 
    kita yang akan di tampilkan didalam web browser, kita bisa menginstall flask dengan comand pip install flask.
 
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/fbf2d4d1-4170-4103-8243-c665cdb09e8b)
+
+
+
+3.Tuliskan code seperti di bawah ini, lalu setelah selesai kita akan keluar dari nano dengan menekan tombol ctrl+x.
+
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/f52680bf-b8d7-4bd7-b5d7-0cd25724a2e4)
+
+
+4.Setelah selesai kita bisa menjalankan script tersebut dengan perintah python3 print-name.py disana flask akan memberi tahu bahwa script kita telah running di 
+  local host maupun jaringan local kita.
+
+
+
+
    
 
 

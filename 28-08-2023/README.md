@@ -14,3 +14,7 @@ Fase ini memproses informasi penting tentang aplikasi yang dikembangkan. Melalui
 Continuous Feedback sangat penting untuk memastikan dan menganalisis hasil akhir dari sebuah aplikasi.
 
 Continuous operations Ini adalah fase terakhir dari DevOps Lifecycle, fase ini adalah yang terpendek dan termudah untuk dipahami.
+
+
+3. instal ubuntu
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/6a8789ba-cfd0-4044-8059-893e62c1afb0)

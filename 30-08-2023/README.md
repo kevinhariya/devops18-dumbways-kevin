@@ -94,6 +94,13 @@ Deploy Python dengan menampilkan nama kita
 4.Setelah selesai kita bisa menjalankan script tersebut dengan perintah python3 print-name.py disana flask akan memberi tahu bahwa script kita telah running di 
   local host maupun jaringan local kita.
 
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/81ea8c7b-bd59-4ed9-bfcd-72d686b3769e)
+
+
+5.Terakhir kita bisa mengecek di browser dengan mengetikan alamat ip addres computer kita dan disana akan muncul nama kita.
+
+
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/7987b624-3cfd-4646-9905-ec4fe6a1e603)
 
 
 

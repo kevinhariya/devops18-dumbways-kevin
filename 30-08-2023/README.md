@@ -27,7 +27,8 @@ Deploy Aplikasi wayshub-frontend dengan menggunakan NodeJS
 2.Deploy Golang dengan menampilkan nama kita
 
 
-1, Pertama kita harus menginstall bahasa pemograman golang terlebih dahulu di os ubuntu kita, sebelumnya kita akan meng update repositori ubuntu dengan comand sudo 
+1, Pertama kita harus menginstall bahasa pemograman golang terlebih dahulu di os ubuntu kita, sebelumnya kita akan meng update repositori ubuntu dengan comand 
+   sudo 
    apt update && sudo apt upgrade -y.
 
   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/01933839-e868-431b-b4e5-7b9dffbe23cc)
@@ -39,7 +40,8 @@ Deploy Aplikasi wayshub-frontend dengan menggunakan NodeJS
 
 
 3.Selanjutnya kita bisa menginstall golang resmi dari repositori ubuntu dengan simpelnya mengetikan comand sudo apt install golang lalu kita tunggu sampai proses 
-  installasi selesai akan tetapi kita disarankan untuk menginstallnya dari webnya golang dengan perintah wget https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz 
+  installasi selesai akan tetapi kita disarankan untuk menginstallnya dari webnya golang dengan perintah wget https://dl.google.com/go/go1.13.5.linux- 
+  amd64.tar.gz 
   lalu sudo tar -C /usr/local/ -xzf go1.13.5.linux-amd64.tar.gz.
 
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/f946cc63-9a8d-407a-a47c-215066c29feb)
@@ -51,7 +53,8 @@ Deploy Aplikasi wayshub-frontend dengan menggunakan NodeJS
   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/85b421e4-ff42-49fe-9434-29f66e99f595)
   
 
-5.Setelah selesai kita bisa keluar dari nano dengan menekan tombol ctrl+x yang ada di keyboard, dan ketikan comand go build print-name.go untuk membangun aplikasi 
+5.Setelah selesai kita bisa keluar dari nano dengan menekan tombol ctrl+x yang ada di keyboard, dan ketikan comand go build print-name.go untuk membangun 
+  aplikasi 
    golang yang telah kita buat.
 
   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/3ef49f80-5aeb-4df1-bf1a-727513212711)

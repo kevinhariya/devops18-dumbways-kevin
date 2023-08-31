@@ -7,19 +7,43 @@ Deploy Aplikasi wayshub-frontend dengan menggunakan NodeJS
 2.setelah membuat folder project kita lalu meng clone website wayshub dengan mengambilnya langsung dari repositori github dengan perintah git clone 
   https://github.com/dumbwaysdev/wayshub-frontend.
 
-![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/a82f9b8f-a907-440b-81b1-bf4764ac4f10)
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/6a670a83-d3d8-4542-82fc-c283b22e1b7e)
+
 
 3.Setelah selesai meng-clone lalu kita masuk ke folder wayshub dengan comand cd lalu di dalam folder kita harus menginstall semua dependensi dan package yang di 
   perlukan, kita bisa melakukannya dengan cukup mengetikan npm install
 
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/d920a8ca-7154-4cab-add7-1707093c59bf)
 
-![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/858f27e3-fd80-4f6d-a201-e6008b4edaf0)
 
 4.Kita juga bisa memperbaiki keamanan dengan npm audit fix (opsional).
 
-![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/7623e48a-212d-49fa-9d01-23d47299e5ca)
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/c8d4b508-4a9c-4aad-8bee-4f1b1116dd20)
+
 
 5.Selanjutnya kita bisa membangun website kita dengan comand npm run build.
+
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/4bc87440-2923-489a-b4fa-77f0df865e66)
+
+
+6.Lalu kita akan mengetikan comand npm install -g serve Perintah npm install -g serve digunakan untuk menginstal global package "serve" dalam lingkungan Node.js 
+  menggunakan NPM (Node Package Manager).
+
+  ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/39ea2c51-5cd9-4701-b27d-449f35e58477)
+
+
+7.Selanjutnya ketikan serve -s build Perintah serve -s build digunakan untuk menjalankan server lokal menggunakan paket "serve" dan menyajikan berkas-berkas yang 
+  ada dalam direktori build.
+
+  ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/8da0e3d4-97fc-4330-a735-f48b07e66034)
+
+8.Setelah itu kita bisa langsung mengecek menggunakan local host atau alamat ip computer kita di browser dan ini adalah website wayshub yang telah kita berhasil 
+  deploy.
+
+  ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/f4f5a09e-e51b-405c-9135-f87b61020622)
+
+
+
 
 
 

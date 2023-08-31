@@ -10,4 +10,7 @@
     tidak berubah ubah. 
     
  -Sedangkan IP dynamic yaitu IP yang didapatkan oleh computer/router lain dari system DHCP, IP dynamic biasanya berubah-ubah.
-2.
+
+
+2.![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/04b6be86-6cc0-4600-9d81-64da69a25a09)
+

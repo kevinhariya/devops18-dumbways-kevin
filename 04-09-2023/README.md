@@ -9,7 +9,8 @@
    
    1.Masuk ke folder project lalu buat folder mkdir bakso bakar lalu cd bakso bakar dan ketikan git init, git init digunakan untuk membuat repositori Git baru di 
      dalam direktori proyek. Repositori ini akan melacak perubahan yang terjadi pada proyek.
-   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/245415c1-4621-4042-b13b-30a6a33fd1a5)
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/1bb133d6-2068-4ef0-87d3-63de142b603f)
+
 
 
    

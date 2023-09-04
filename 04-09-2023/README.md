@@ -9,16 +9,23 @@
    
    1.Masuk ke folder project lalu buat folder mkdir sample-repo lalu cd sample-repo dan ketikan git init, git init digunakan untuk membuat repositori Git baru di 
      dalam direktori proyek. Repositori ini akan melacak perubahan yang terjadi pada proyek.
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/245415c1-4621-4042-b13b-30a6a33fd1a5)
+
 
    
    2.Anda dapat membuat repositori baru menggunakan Command-Line Interface GitHub, GitHub CLI atau disingkat sebagai gh, adalah alat baris perintah yang 
      memungkinkan 
      Anda berinteraksi dengan GitHub melalui terminal. sudo apt update && sudo snap install gh --classic, dengan gh ini nantinya kita bisa membuat repo github 
      langsung dari terminal.
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/cd842cba-4471-4a51-8a65-b0296789c963)
+   
+
 
    3.Ketikan gh repo create sample-repo --public, Perintah gh repo create sample-repo --public digunakan untuk membuat repositori baru dengan nama "sample-repo" di 
      GitHub melalui CLI (Command-Line Interface) GitHub (gh). Opsi --public menentukan bahwa repositori yang dibuat akan memiliki status publik, yang berarti dapat 
      diakses dan dilihat oleh siapa saja. dan anda juga bisa melihat status atau alamat url repo yang tadi dibuat dengan perintah gh repo view sample-repo.
+
+   
 
    4.Gunakan coma touch untuk menambah 3 file sekaligus 'touch file1 file2 file3`, setelah 3 file tadi dibuat lalu git add. Perintah git add digunakan untuk 
      menambahkan semua perubahan dalam direktori proyek ke staging area sebelum melakukan commit. Dengan menjalankan perintah ini, Anda memberitahu Git agar 

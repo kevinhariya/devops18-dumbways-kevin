@@ -7,7 +7,7 @@
 2. buat repository dengan nama makanan kesukaan kalian (diluar tugas) yang berisi 3 file dengan isi yang berbeda,
    Buat 2 branch
    
-   1.Masuk ke folder project lalu buat folder mkdir sample-repo lalu cd sample-repo dan ketikan git init, git init digunakan untuk membuat repositori Git baru di 
+   1.Masuk ke folder project lalu buat folder mkdir bakso bakar lalu cd bakso bakar dan ketikan git init, git init digunakan untuk membuat repositori Git baru di 
      dalam direktori proyek. Repositori ini akan melacak perubahan yang terjadi pada proyek.
    ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/245415c1-4621-4042-b13b-30a6a33fd1a5)
 
@@ -21,9 +21,9 @@
    
 
 
-   3.Ketikan gh repo create sample-repo --public, Perintah gh repo create sample-repo --public digunakan untuk membuat repositori baru dengan nama "sample-repo" di 
+   3.Ketikan gh repo create baksobakar --public, Perintah gh repo create baksobakar --public digunakan untuk membuat repositori baru dengan nama "baksobakar" di 
      GitHub melalui CLI (Command-Line Interface) GitHub (gh). Opsi --public menentukan bahwa repositori yang dibuat akan memiliki status publik, yang berarti dapat 
-     diakses dan dilihat oleh siapa saja. dan anda juga bisa melihat status atau alamat url repo yang tadi dibuat dengan perintah gh repo view sample-repo.
+     diakses dan dilihat oleh siapa saja. dan anda juga bisa melihat status atau alamat url repo yang tadi dibuat dengan perintah gh repo view baksobakar.
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/79a2f31f-221c-4247-b21c-de6b5527f90a)
 
    
@@ -54,6 +54,7 @@
 
 
    8.Dan berikut adalah hasil dari sample repo, 3 file, dan juga 2 branch baru yang telah kita buat.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/1bf792df-d57c-4581-a479-2ad601f1df7c)
 
    
    

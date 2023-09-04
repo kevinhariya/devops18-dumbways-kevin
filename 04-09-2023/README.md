@@ -24,6 +24,7 @@
    3.Ketikan gh repo create sample-repo --public, Perintah gh repo create sample-repo --public digunakan untuk membuat repositori baru dengan nama "sample-repo" di 
      GitHub melalui CLI (Command-Line Interface) GitHub (gh). Opsi --public menentukan bahwa repositori yang dibuat akan memiliki status publik, yang berarti dapat 
      diakses dan dilihat oleh siapa saja. dan anda juga bisa melihat status atau alamat url repo yang tadi dibuat dengan perintah gh repo view sample-repo.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/79a2f31f-221c-4247-b21c-de6b5527f90a)
 
    
 
@@ -32,15 +33,29 @@
      melacak 
      perubahan yang ada dalam file-file proyek. Setelah perubahan ditambahkan ke staging area, Anda dapat melakukan commit untuk menyimpan perubahan-perubahan 
      tersebut ke dalam repositori Git. git commit -m "Create 3 file".
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/44bf6e31-1e9a-4b90-add0-84c5b367b37c)
 
-   5.Selanjutnya adalah menambahkan remote add dan set url ke dalam repositori github, setelah selesai lakukan push dengan git push -u origin master.
+   
+
+   5.Selanjutnya lakukan push dengan git push -u origin main.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/868197be-432a-4d42-91c6-44139f0b2140)
+
+   
 
    6.Selanjutnya membuat dua branches yang berbeda git branch staging dan git branch production.
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/cd01ca89-f21e-4ad7-b752-7e814bd575d7)
+   
+
 
    7.Langkah terakhir untuk mempublish semua branch yang telah kita buat ke dalam platfrom github dengan cara, git push origin staging dan juga git push origin 
      production.
+   ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/05b9608d-8a54-45e4-87dc-6882233119b5)
+
+
 
    8.Dan berikut adalah hasil dari sample repo, 3 file, dan juga 2 branch baru yang telah kita buat.
+
+   
    
 
   4. Cari 3 command git yang belum dijelaskan

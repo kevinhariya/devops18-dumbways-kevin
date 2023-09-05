@@ -85,6 +85,34 @@ Command = perintah apa yang sedang di jalankan.
 
 
 
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/b7ddc570-b865-4472-8c5b-201c0c4fccd6)
+command f1 sampai f10 harus digunakan menggunakan fn+f1 dst
+
+help = untuk mengetahui lebih lanjut mengenai tool di htop atau informasi tentang htop
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/5813891c-d22e-49b8-9467-2a46d9ae8ebc)
+
+
+setup = untuk mengatur htop baik pada tampilan maupun informasi yang ingin ditampilkan pada kolom dan baris monitoring
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/4fa31eee-516f-4d44-9f8e-a2dd9564e504)
+
+
+search = untuk mencari proses, user, command dengan nama tertentu
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/e015863b-d13b-40c3-9ba9-c91eb365329a)
+
+
+filter = untuk memfilter command, proses, user dengan nama tertentu
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/990764ee-0f89-455e-ba91-289c1e57bc92)
+
+
+tree = untuk menampilkan cabang command
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/f50f6827-178b-4234-8ed4-b47d41bcf920)
+
+
+sortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/0ae0a48b-30e3-4e45-930c-fc79274dba2e)
+
+
+
 
 
 

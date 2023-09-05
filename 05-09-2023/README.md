@@ -62,9 +62,11 @@ echo
 3.echo "kata kata" >> file = untuk menambahkan isi file dengan kata
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/22f82ff9-ce03-4dd5-9284-9a5805b409d5)
 
-htop
-1.Penjelasan tentang Htop:
-Htop adalah sebuah utilitas pengawasan sistem interaktif berbasis teks yang digunakan untuk memonitor dan mengelola kinerja sistem di lingkungan Linux. Ini adalah alternatif yang lebih kuat dan serbaguna dibandingkan dengan utilitas top bawaan di Linux. Htop menyediakan antarmuka yang lebih mudah digunakan dan menampilkan informasi yang lebih terperinci tentang penggunaan CPU, memori, dan sumber daya sistem lainnya.
+2.htop
+  1.Penjelasan tentang Htop:
+  Htop adalah sebuah utilitas pengawasan sistem interaktif berbasis teks yang digunakan untuk memonitor dan mengelola kinerja sistem di lingkungan Linux. Ini 
+  adalah alternatif yang lebih kuat dan serbaguna dibandingkan dengan utilitas top bawaan di Linux. Htop menyediakan antarmuka yang lebih mudah digunakan dan 
+  menampilkan informasi yang lebih terperinci tentang penggunaan CPU, memori, dan sumber daya sistem lainnya.
 
 
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/4a4f8f60-8e80-42ec-b048-daa3c9c6bdde)

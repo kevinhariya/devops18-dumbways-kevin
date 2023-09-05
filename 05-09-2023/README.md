@@ -116,7 +116,9 @@ sortby = untuk mengurutkan berdasarkan karateristik tertentu seperti pada gambar
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/0ae0a48b-30e3-4e45-930c-fc79274dba2e)
 
 
-BASH Script untuk instalasi nginx
+
+
+3.BASH Script untuk instalasi nginx
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/cdf44391-6583-4c10-9781-5eb6dcbf88cb)
 
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/257b5255-6030-4158-9868-f9d2b10cdbd5)

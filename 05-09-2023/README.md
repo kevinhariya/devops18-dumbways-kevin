@@ -62,6 +62,30 @@ echo
 3.echo "kata kata" >> file = untuk menambahkan isi file dengan kata
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/22f82ff9-ce03-4dd5-9284-9a5805b409d5)
 
+htop
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/4a4f8f60-8e80-42ec-b048-daa3c9c6bdde)
+
+CPU = jumlah core yang kita miliki.
+
+Mem = total penggunaan memory.
+
+Swp = Memory cadangan.
+
+Tasks = aplikasi yang sedang berjalan di server.
+
+Load average = rata-rata aplikasi yang berjalan.
+
+Uptime = berapa lama server kita hidup.
+
+PID = nomor proses id setiap proses yang berjalan di linux.
+
+VIRT = memory yang terpakai.
+
+Command = perintah apa yang sedang di jalankan.
+
+
+
+
 
 
 

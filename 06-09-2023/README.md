@@ -27,7 +27,34 @@ menjalankan aplikasi dumbflix menggunakan PM2
 
 
 
-3.Selanjutnya kita akan mengedit file config di nginx yang kita punya dengan menggunakan sudo nano /etc/nginx/nginx.conf.
+3.Selanjutnya kita akan mengedit file config di nginx yang kita punya dengan menggunakan nano /etc/nginx/nginx.conf.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/e50664f3-321e-4572-a1df-9e3af5cb44a6)
+
+
+
+4.Kalian bisa menambahkan include seperti gambar yang ada di bawah ini, tulisan tersebut berfungsi sebagai akan memberitahu nginx bahwa akan membaca semua yang ada didalam folder dumbways termasuk config proxy yang sudah kita buat sebelumnya.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/0f074e63-4598-4c36-b144-28743315fc53)
+
+
+
+5.Setelah selesai mengedit file nginx.conf kita bisa mengecek bahwa systanx yang sudah kita tulis aman dan tidak ada eror dengan menulisakn sudo nginx -t dan jika mendapatkan pesan OK succesfull kita dapat melanjutkan ketahap berikutnya yaitu me reload nginx dengan cara sudo systemctl reload nginx.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/09efbe50-7b02-4936-9039-d730b855c475)
+
+
+
+6.Langkah selanjutnya kita harus mengedit file host yang ada di windows kita disini kalian bisa mengcopy path untuk masuk kedalam foldernya C:\Windows\System32\drivers\etc disana akan ada folder hosts dan buka dengan notedpad, pastikan menjalankannya dengan administrator agar kalian dapat mendedit file tersebut, selanjutnya masukan alamat ip kalian beserta nama webnya.
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/a9be7975-8dae-467f-8890-8fca5bcf3b4f)
+
+![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/9ad8e630-93bf-4bef-9469-8c472fe5aaba)
+
+
+
+
+
+
+
+
+
 
 
 

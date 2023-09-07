@@ -15,7 +15,8 @@ menjalankan aplikasi dumbflix menggunakan PM2
 4.Terkahir kita bisa mengecek kedalam browser bahwa website kita telah berhasil di jalanlan disini kita akan mengetikan alamat ip computer kita beserta portnya yaitu 8080
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/9041fca9-a9b9-41c4-910e-cc188bab32d4)
 
-.Membuat konfigurasi reverse proxy menguunakan 2 server didalam Vm
+.Membuat konfigurasi reverse proxy 
+
 
 1.Masuk kedalam folder nginx dengan cara cd /etc/nginx lalu kita akan membuat folder didalam folder nginx mkdir dumbways && cd dumbways kita harus menggunakan jika ingin berinteraksi didalam folder etc karna folder etc sendiri masuk kedalam folder sistem root di linux, setelah masuk ke dalam folder dumbways kita akan membuat proxy dengan cara nano reverse-proxy.conf.
 ![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/9383b69e-aed1-4031-9744-91088374fd98)

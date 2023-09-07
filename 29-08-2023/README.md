@@ -12,6 +12,7 @@
  -Sedangkan IP dynamic yaitu IP yang didapatkan oleh computer/router lain dari system DHCP, IP dynamic biasanya berubah-ubah.
 
 
-2.![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/33b85d97-12fd-4063-8037-419973f1bac8)
+2.![image](https://github.com/kevinhariya/devops18-dumbways-kevin/assets/135611481/5fc30a26-6e53-461a-b926-d1d13c6a4b0c)
+
 
 
